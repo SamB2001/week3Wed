@@ -52,3 +52,4 @@ function revealMessage() {
 }
 
 document.querySelector('form').addEventListener('submit', addMovie)
+// lol
